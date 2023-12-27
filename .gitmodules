@@ -1,0 +1,12 @@
+[submodule "meta-synaptics"]
+	path = meta-synaptics
+	url = ssh://github.com/yut616/private-Sirius-meta-synaptics
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://code.qt.io/yocto/meta-qt5.git
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
