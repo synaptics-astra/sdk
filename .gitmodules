@@ -1,6 +1,6 @@
 [submodule "meta-synaptics"]
 	path = meta-synaptics
-	url = ssh://github.com/syna-astra-dev/internal-Sirius-meta-synaptics
+	url = ../internal-Sirius-meta-synaptics
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
