@@ -9,4 +9,4 @@
 	url = https://code.qt.io/yocto/meta-qt5.git
 [submodule "poky"]
 	path = poky
-	url = git://git.yoctoproject.org/poky.git
+	url = https://git.yoctoproject.org/poky.git
